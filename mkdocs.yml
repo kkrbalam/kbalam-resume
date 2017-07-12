@@ -1,0 +1,21 @@
+site_name: Krishna Balam
+site_description: Resume of Krishna Balam
+site_author: Krishna Balam
+site_url: http://www.kkrbalam.com
+copyright: © 2016 <a href="https://twitter.com/KrishnaBalam">Krishna Balam</a>
+docs_dir: resume
+pages:
+    - Home: 'index.md'
+    - Eduction: 'education.md'
+    - Experience:
+        - 'CapitalOne': 'capitalone.md'
+        - 'RosettaStone': 'rosettastone.md'
+        - 'Qimonda NA': 'qimonda.md'
+        - 'JPMorgan Chase': 'jpmc.md'
+        - 'RHT Infoway': 'rhtinfoway.md'
+        - 'SDSM&T': 'sdsmt.md'
+    - About Me:
+        - 'Expertise': 'expertise.md'
+        - 'Skills': 'skills.md'
+        - 'Contact Me': 'contact.md'
+theme: flatly
