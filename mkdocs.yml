@@ -6,7 +6,7 @@ copyright: © 2016 <a href="https://twitter.com/KrishnaBalam">Krishna Balam</a>
 docs_dir: resume
 pages:
     - Home: 'index.md'
-    - Eduction: 'education.md'
+    - Education: 'education.md'
     - Experience:
         - 'CapitalOne': 'capitalone.md'
         - 'RosettaStone': 'rosettastone.md'
